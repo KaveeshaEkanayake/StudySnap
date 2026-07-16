@@ -43,3 +43,4 @@ yarn-error.*
 .claude/
 CLAUDE.md
 AGENTS.md
+.env
